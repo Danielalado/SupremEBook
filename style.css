@@ -212,7 +212,7 @@ margin-top: -2.3rem;
 
     .col-left .option{
         color: white;
-        margin-bottom: 10rem;
+        margin-bottom: 6rem;
         max-width: 25rem;
     }
 
@@ -221,10 +221,12 @@ margin-top: -2.3rem;
         align-items: center;
         color: white;
         justify-content: space-between;
-        
+        margin-bottom: 3rem;
     }
+
     .numbers .users {
         margin-right: 2rem;
+        /* margin-bottom: 30rem; */
     }
 
     .numbers .users span{
@@ -262,6 +264,10 @@ margin-top: -2.3rem;
 
      .numbers .authors .values{
         font-size: 2rem;
+    }
+
+    .numbers img{
+        height: 4rem;
     }
 
     .col-right{
